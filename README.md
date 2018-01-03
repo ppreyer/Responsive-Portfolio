@@ -3,7 +3,7 @@
 ## Overview
 This is my first ever application created to display completed programming projects. The page is created from scratch without the aid of a CSS framework.  The only difference between this repo and the Basic-Portfolio repo is the CSS file in this repo includes media queries to enhance the user's mobile experience.  The website consists of three pages: 1. About 2. Portfolio 3. Contact
 
-Please preview the page here: https://ppreyer.github.io/Basic-Portfolio/
+Please preview the page here: https://ppreyer.github.io/Responsive-Portfolio/
 
 ## About
 The About page provides a brief overview of my professional and personal intersts.  You also click to view my Github, Linkedin, and Stack Overflow pages.
